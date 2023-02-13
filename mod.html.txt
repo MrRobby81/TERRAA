@@ -1,0 +1,17 @@
+<HTML>
+    <head>
+        <title> lapa </title>
+    </head>
+
+    <body style="background-color:F1741D;">
+        
+        <h1 style="font-size:60px;">Calamity Mod</h1>
+        <hr>
+        <p style="font-size:40px;">The best mod for Terraria.</p>
+        <p style="font-size:30px;">You can find it in TModLoader.</p>
+        <img src=https://forums.terraria.org/index.php?attachments/calamity_logo_1-png.200818/>
+        <hr>
+        <a href="https://calamitymod.fandom.com/wiki/Calamity_Mod_Wiki">If you want to find more information about this mod.</a>
+        
+    </body>
+</html> 
