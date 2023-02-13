@@ -1,0 +1,28 @@
+<HTML>
+    <head>
+        <title> TERRARIA BEST GAME FOREVER </title>
+        <meta charset="UTF-8">
+    </head>
+    
+    <body style= "background-color:black">
+       <div style= "background-color:green"> 
+           
+            <h1 style="font-size:60px">Terraria</h1>
+            <hr> 
+            <p style="font-size:30px">Tā ir spēle</p>
+            <img src="https://images0.androeed.ru/ico/2022/11/18/terraria-ico--1668790454-0.webp">
+            <p></p>
+            <form action="https://terraria.fandom.com/wiki/Terraria_Wiki" target="_blank">
+            <button style="font-size:30px">Uzzināt vairāk</button> 
+               
+       </div>
+       
+        
+        <script>
+        var ctx = myCanvas.getContext("2d"); 
+
+
+        </script>
+
+    </body>
+</html> 
